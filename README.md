@@ -6,4 +6,4 @@
 |<span class="hljs-comment">-- README.md</span>
 |<span class="hljs-comment">-- excel_to_vcard.py</span>
 |<span class="hljs-comment">-- sample_data.xlsx</span>
-</code></div></div></pre><h3>Additional Tips:</h3><ol><li><strong>Star Your Own Repository</strong>: Starring your own repository can give it an initial boost.</li><li><strong>Engage with the Community</strong>: Share your repository on relevant platforms, ask for feedback, and make sure to reply to issues or pull requests.</li><li><strong>Regular Updates</strong>: Regularly update the repository, even if it's just improving the documentation or refactoring the code. This shows that the repository is active.</li><li><strong>Add a License</strong>: Add an appropriate license to the repository. This can encourage others to use or contribute to the project.</li></ol>
+</code></div></div></pre>
