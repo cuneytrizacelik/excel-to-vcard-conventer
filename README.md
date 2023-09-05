@@ -7,3 +7,6 @@
 |<span class="hljs-comment">-- excel_to_vcard.py</span>
 |<span class="hljs-comment">-- sample_data.xlsx</span>
 </code></div></div></pre>
+<p><strong>You can contact <a href="mailto:info@growthbx.com">info@growthbx.com</a> about Woocommerce and Wordpress developments, e-commerce and website building.</strong></p>
+
+<p><strong>For more information about GrowthBX <a href="https://growthbx.com">https://growthbx.com</a></strong></p>
